@@ -1,11 +1,31 @@
-# Obsidian Notes
+<center><h1>Índice</h1></center>
+Esta é uma enciclopédia dedicada ao conteúdo planeja para o ano de 2024 na matéria "Robótica e Inteligência artificial" do itinerário de Tecnologia e Matemática do colégio Visconde de Porto seguro - Campus Vila Andrade.
+Abaixo estão listados todos os conteúdos planejados para o ano de 2024:
 
-Publish your public notes with MkDocs
+* Inteligência Artificial
+	*  [[O que é uma IA, Como Funcionam]]
+	* [[Qual o propósito da IA]]
+	* [[Documentação - APIs]]
+	* [[Boas práticas e Ética]]
+	* [[Estrutura de dados(Árvore)]]
+	* [[Introdução ao PROLOG]]
+	* [[Projeto - Árvore genealógica]]
+	* [[IA para Edição de textos]]
+	* [[IA para imagem]]
+	* [[IA para vídeo]]
+	* [[IA para composição musical]]
+	* [[Marketing Digital]]
+	* [[Batalha de RAP com IAs]]
+* Robótica
+	* [[Apresentação]]
+	* [[Arduino IDE]]
+	* [[Projeto - BLINK]]
+	* [[Projeto - Garra]]
+	* [[Veículo Autônomo]]
+	* [[Prótese - Mão]]
+	* [[Controle remoto]]
+	* [[Veículo de controle remoto]]
+	* [[Battle BOTS]]
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+A estrutura a cima indica a ordem dos conteúdos , a forma como serão aplicados.
+Em caso do objetivo ser uma aula em particular, o conteúdo pode ser plicado sem a necessidade do seguir a linha do conteúdo anterior.
