@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "ec6bd42af4265d2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6c295d15365e3a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f1db783f35857ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inteligência Artificial/02_Boas práticas e Ética.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79b66481b27bfd91",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d937e3581ad29bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "201dcd7fc2da676a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "810a3a6631d4cf40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8b4acb5b839db6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c9fd8e760271ef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a38a9fc95811ffab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8676ba211ffe533d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inteligência Artificial/02_Boas práticas e Ética.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4683a8ea21c6a195",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inteligência Artificial/02_Boas práticas e Ética.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "268921996f75bdc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80932ec266cdac74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inteligência Artificial/02_Boas práticas e Ética.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7f1db783f35857ae",
+  "lastOpenFiles": [
+    "Inteligência Artificial/02_1_IAs Generativas.md",
+    "Inteligência Artificial/02_Boas práticas e Ética.md",
+    "Inteligência Artificial/06_IA para Edição de textos.md",
+    "Inteligência Artificial/05_Projeto - Árvore genealógica.md",
+    "Inteligência Artificial/04_Introdução ao PROLOG.md",
+    "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
+    "Inteligência Artificial/01_Qual o propósito da IA.md",
+    "Inteligência Artificial/00_O que é uma IA, Como Funcionam.md",
+    "Inteligência Artificial/09_IA para composição musical.md",
+    "Inteligência Artificial/10_Marketing Digital.md",
+    "Inteligência Artificial/08_IA para vídeo.md",
+    "Inteligência Artificial/07_IA para imagem.md",
+    "Referências/Documentação - APIs.md",
+    "index.md"
+  ]
+}

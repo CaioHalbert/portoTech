@@ -16,8 +16,8 @@ Junto do ChatGPT, temos a IA do bing e do canva, que são muito uteis e tão efi
 
 Para os conteúdos, serão usadas várias IAs, sendo elas:
 
-* [[IA para vídeo]]
-* [[IA para imagem]]
-* [[IA para Edição de textos]]
-* [[IA para composição musical]]
+* [[08_IA para vídeo]]
+* [[07_IA para imagem]]
+* [[06_IA para Edição de textos]]
+* [[09_IA para composição musical]]
 

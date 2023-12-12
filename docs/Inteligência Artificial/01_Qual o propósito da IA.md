@@ -13,4 +13,4 @@ Claro, essa substituição gera um impacto social muito grande, onde várias pes
 
 Esta é uma ação contínua, a tecnologia evolui e o mercado precisa acompanhar.
 
-Inicialmente, as IAs faziam tarefas simples mais voltadas para a automação de processos, em alguns casos, trabalhavam na gestão dos dispositivos. Isso mudou drasticamente com as chegada das [[IAs Generativas]], ou seja, aquelas que são capazes de produzir algo com base nos parâmetros passados para ela, não somente trabalhar de forma autônoma em determinada tarefa.
+Inicialmente, as IAs faziam tarefas simples mais voltadas para a automação de processos, em alguns casos, trabalhavam na gestão dos dispositivos. Isso mudou drasticamente com as chegada das [[02_1_IAs Generativas]], ou seja, aquelas que são capazes de produzir algo com base nos parâmetros passados para ela, não somente trabalhar de forma autônoma em determinada tarefa.

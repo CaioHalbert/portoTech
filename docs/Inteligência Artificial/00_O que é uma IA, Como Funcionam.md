@@ -13,6 +13,6 @@ A ideia da IA é simples: Representar o ser humano em determinada tarefa, fazer 
 * Exigir uma quantidade de linha para o texto;
 * Descrever uma sinopse ou visão superficial do enredo;
 
-Estes são alguns parâmetros que podem ser usados para fazer um bom uso de uma IA, indicando [[Boas práticas e Ética]] em seu uso.
+Estes são alguns parâmetros que podem ser usados para fazer um bom uso de uma IA, indicando [[02_Boas práticas e Ética]] em seu uso.
 
-Nosso próximo passo é descobrir [[Qual o propósito da IA]] e fazer o uso eficiente delas. 
+Nosso próximo passo é descobrir [[01_Qual o propósito da IA]] e fazer o uso eficiente delas. 
