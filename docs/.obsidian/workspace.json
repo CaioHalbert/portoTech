@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inteligência Artificial/02_Boas práticas e Ética.md",
+                "file": "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inteligência Artificial/02_Boas práticas e Ética.md",
+                "file": "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inteligência Artificial/02_Boas práticas e Ética.md",
+                "file": "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inteligência Artificial/02_Boas práticas e Ética.md"
+                "file": "Inteligência Artificial/03_Estrutura de dados(Árvore).md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "7f1db783f35857ae",
   "lastOpenFiles": [
-    "Inteligência Artificial/02_1_IAs Generativas.md",
     "Inteligência Artificial/02_Boas práticas e Ética.md",
+    "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
+    "Imagens/Estrutura de dados.png",
+    "Inteligência Artificial/02_1_IAs Generativas.md",
     "Inteligência Artificial/06_IA para Edição de textos.md",
     "Inteligência Artificial/05_Projeto - Árvore genealógica.md",
     "Inteligência Artificial/04_Introdução ao PROLOG.md",
-    "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
     "Inteligência Artificial/01_Qual o propósito da IA.md",
     "Inteligência Artificial/00_O que é uma IA, Como Funcionam.md",
     "Inteligência Artificial/09_IA para composição musical.md",

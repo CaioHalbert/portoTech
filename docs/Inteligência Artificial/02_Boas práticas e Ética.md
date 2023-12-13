@@ -1,0 +1,6 @@
+<center><h1>Passo-a-passo</h1></center>
+Quando tratamos de um ambiente aberto para inteligências artificiais, torna-se muito necessário que sejam estipuladas regras e condições de conduta para o seu uso, pois o impacto social e profissional é intenso.
+
+Como ética, podemos colocar as questões profissionais em pauta, como o uso para produzir conteúdo original, quebrar direitos autorais, ou usar o material sem uma revisão prévia, fazendo assim, uma enchorrada de materiais supérfluos e genéricos no mercado e mídia, o que acaba obstruindo a possibilidade de acessar os materiais verdadeiramente relevantes, apagando aquele que se propões com esforço e dedicação, colocar algo de relevância e enriquecimento ao nosso alcance.
+
+Uma boa prática, nada mais é que, um conjunto de regras para a produção de algo, no caso das IAs, uma boa pratica é a evolução gradual do prompt, ou compor o conteúdo por partes, ler e reler os resultados, corrigindo e retificando, fazendo o polimento do conteúdo até que você tenha a informação bem gravada e revisada em mente.
