@@ -5,8 +5,8 @@ theme:
     font: 
       text: Oswald
       code: Roboto
-    logo: Assets/3.png
-    favicon: Assets/1.png
+    logo: /Assets/3.png
+    favicon: /Assets/1.png
     features:
       - navigation.tracking
 
