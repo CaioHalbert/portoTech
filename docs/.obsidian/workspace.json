@@ -11,15 +11,24 @@
             "id": "7f1db783f35857ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
-                "mode": "source",
-                "source": false
+                "file": "Imagens/Uso prolog.png"
+              }
+            }
+          },
+          {
+            "id": "e0e0a022bccaaeda",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagens/Download Prolog.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
+                "file": "Imagens/Download Prolog.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
+                "file": "Imagens/Download Prolog.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inteligência Artificial/03_Estrutura de dados(Árvore).md"
+                "file": "Imagens/Download Prolog.png"
               }
             }
           }
@@ -146,18 +155,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7f1db783f35857ae",
+  "active": "201dcd7fc2da676a",
   "lastOpenFiles": [
-    "Pasted image 20231228004430.png",
+    "Imagens/Uso prolog.png",
+    "Imagens/Interface prolog.png",
+    "Imagens/Compilação prolog.png",
+    "Imagens/Download Prolog.png",
     "Imagens/Estrutura de arvore.png",
+    "gbdrtg.png",
+    "Imagens/Estrutura de dados.png",
+    "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
+    "Inteligência Artificial/04_Introdução ao PROLOG.md",
+    "Referências/Sam Altman.md",
+    "dsadw.png",
     "Pasted image 20231228004402.png",
     "Pasted image 20231228004455.png",
     "Inteligência Artificial/05_Projeto - Árvore genealógica.md",
-    "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
-    "Inteligência Artificial/04_Introdução ao PROLOG.md",
     "Inteligência Artificial/02_Boas práticas e Ética.md",
     "index.md",
-    "Imagens/Estrutura de dados.png",
     "Inteligência Artificial/02_1_IAs Generativas.md",
     "Inteligência Artificial/06_IA para Edição de textos.md",
     "Inteligência Artificial/01_Qual o propósito da IA.md",
