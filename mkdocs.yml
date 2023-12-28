@@ -7,6 +7,8 @@ theme:
       code: Roboto
     logo: Assets/3.png
     favicon: Assets/1.png
+    features:
+      - navigation.tracking
 
     palette:
 
