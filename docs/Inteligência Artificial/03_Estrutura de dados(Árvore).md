@@ -24,7 +24,7 @@ Agora, sabendo como trabalhamos com a informação e como compor ela, vamos ente
 
 O exemplo mais comum e simples de uma estrutura de dados em árvore é a arvore genealógica, que iremos apresentar a seguir de forma ilustrada e textual.
 
-![[Pasted image 20231228004235.png]]
+![[Estrutura de arvore.png]]
 
 Com essa imagem podemos apresentar a seguinte descrição:
 

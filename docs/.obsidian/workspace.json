@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b9c6bcb2157d08cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inteligência Artificial/05_Projeto - Árvore genealógica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inteligência Artificial/05_Projeto - Árvore genealógica.md",
+                "file": "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inteligência Artificial/05_Projeto - Árvore genealógica.md",
+                "file": "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inteligência Artificial/05_Projeto - Árvore genealógica.md"
+                "file": "Inteligência Artificial/03_Estrutura de dados(Árvore).md"
               }
             }
           }
@@ -159,20 +146,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b9c6bcb2157d08cc",
+  "active": "7f1db783f35857ae",
   "lastOpenFiles": [
-    "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
-    "Pasted image 20231228004455.png",
     "Pasted image 20231228004430.png",
+    "Imagens/Estrutura de arvore.png",
     "Pasted image 20231228004402.png",
-    "Pasted image 20231228004235.png",
+    "Pasted image 20231228004455.png",
+    "Inteligência Artificial/05_Projeto - Árvore genealógica.md",
+    "Inteligência Artificial/03_Estrutura de dados(Árvore).md",
     "Inteligência Artificial/04_Introdução ao PROLOG.md",
     "Inteligência Artificial/02_Boas práticas e Ética.md",
     "index.md",
     "Imagens/Estrutura de dados.png",
     "Inteligência Artificial/02_1_IAs Generativas.md",
     "Inteligência Artificial/06_IA para Edição de textos.md",
-    "Inteligência Artificial/05_Projeto - Árvore genealógica.md",
     "Inteligência Artificial/01_Qual o propósito da IA.md",
     "Inteligência Artificial/00_O que é uma IA, Como Funcionam.md",
     "Inteligência Artificial/09_IA para composição musical.md",
