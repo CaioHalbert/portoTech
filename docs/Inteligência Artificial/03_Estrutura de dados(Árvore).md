@@ -18,7 +18,20 @@ Agora, sabendo como trabalhamos com a informação e como compor ela, vamos ente
 *  ***Lista*** : A lista apresenta uma sequencia abstrata de valores, ordenada;
 *  ***Pilha*** : Assim como empilhar objetos, esta estrutura usar o FILO(First In, Last Out), o primeiro a entrar é o ultimo a sair;
 *  ***Fila*** : A fila, diferente da pilha, segue uma sequencia FIFO(First In, First Out), o primeiro a entrar é o ultimo a sair;
-*  ***Arvore*** : Este é o que vamos usar, a arvore é uma estrutura ramificada, onde um dado, combinado e alinhado pode chegar a vários resultados lógicos possiveis;
+*  ***Arvore*** : Este é o que vamos usar, a arvore é uma estrutura ramificada, onde um dado, combinado e alinhado pode chegar a vários resultados lógicos possíveis;
 
 
 
+O exemplo mais comum e simples de uma estrutura de dados em árvore é a arvore genealógica, que iremos apresentar a seguir de forma ilustrada e textual.
+
+![[Pasted image 20231228004235.png]]
+
+Com essa imagem podemos apresentar a seguinte descrição:
+
+Pai = Jorge, ele tem dois filhos, Claudio e Ana.
+Claudio também é pai de duas pessoas, ou seja, Claudio é filho de Jorge e pai de Samanta e Ricardo.
+Ana é mãe de duas pessoas, sendo assim, como Claudio, Ana é filha de Jorge e mãe de Paulo e Pedro.
+
+Usando esta descrição, montamos uma relação de Pai-Filho entre todos os dados recebidos.
+
+Compreendendo isso, o nosso próximo passo é ir para a [[04_Introdução ao PROLOG]] e entender como aplicar essa lógica em um software de busca e estrutura de dados, a base para se criar uma IA.
