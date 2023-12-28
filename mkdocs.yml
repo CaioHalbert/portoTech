@@ -1,7 +1,13 @@
-site_name: PortoTech
+site_name: Ingwaz Study
 
 theme:
     name: 'material'
+    font: 
+      text: Oswald
+      code: Roboto
+    logo: Assets/3.png
+    favicon: Assets/1.png
+
     palette:
 
     # Light mode
